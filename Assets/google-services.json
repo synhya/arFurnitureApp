@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047370796359",
+    "firebase_url": "https://unity-furnitureapp-default-rtdb.firebaseio.com",
+    "project_id": "unity-furnitureapp",
+    "storage_bucket": "unity-furnitureapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047370796359:android:5ae25b753a2806ae401062",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARFurnitureApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047370796359-0vib023qq901da0v4ljlul4acv1u9gih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXYHV0d7zQgfEWOmz8vX0JrBkUVPZaTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047370796359-0vib023qq901da0v4ljlul4acv1u9gih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047370796359-a7tn6q6650s86mto3k4toqhi08unehnp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.ARFurnitureApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
